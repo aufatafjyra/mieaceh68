@@ -1,0 +1,11 @@
+.menu-form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 5px;
+}
+
+.menu-forms .form-group {
+    display: grid;
+    grid-template-columns: 0.1fr 1fr;
+    grid-gap: 10px;
+}
